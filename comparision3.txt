@@ -1,0 +1,11 @@
+a="mommy"
+
+b="Mommy"
+
+print(a<b)
+
+print(a>b)
+
+print(a<=b)
+
+print(a>=b)
