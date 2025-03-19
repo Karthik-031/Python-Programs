@@ -1,0 +1,5 @@
+print("Helloh python")
+
+print("Python is ")
+
+print("very easy language")
