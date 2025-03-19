@@ -1,0 +1,14 @@
+x,*y=10,20,30,40
+
+print(x,y)
+
+print(type(x))
+
+print(type(y))
+
+Output:-
+10 [20, 30, 40]
+
+<class 'int'>
+
+<class 'list'>
