@@ -1,0 +1,11 @@
+length=12
+
+breadth=5
+
+area=length*breadth
+
+perimeter=2*(length+breadth)
+
+print("the area of rectangle is:",area)
+
+print("the perimeter of rectangle is:",perimeter)
