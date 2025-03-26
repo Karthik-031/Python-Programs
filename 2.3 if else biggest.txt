@@ -1,0 +1,9 @@
+num1=int(input("enter first number:"))
+
+num2=int(input("enter second number:"))
+
+if num1>=num2:
+    
+print("The given number is bigger ")
+    
+print("The given number is smaller")

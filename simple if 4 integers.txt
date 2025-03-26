@@ -1,0 +1,23 @@
+n1=int(input("Enter first number:"))
+
+n2=int(input("Enter second number:"))
+
+n3=int(input("Enter third number:"))
+
+n4=int(input("Enter fourth number:"))
+
+s=n1
+
+if n2<s:
+
+    s=n2
+
+if n3<s:
+
+        s=n3
+
+if n4<s:
+
+            s=n4
+
+            print("The smaller number is :",s)

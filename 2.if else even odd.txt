@@ -1,0 +1,9 @@
+num=int(input("enter any number:"))
+
+if num%2==0:
+    
+print("The given num even")
+
+else:
+    
+print("The given number odd")

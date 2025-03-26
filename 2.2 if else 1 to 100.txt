@@ -1,0 +1,9 @@
+num=int(input("Enter any number:"))
+
+if num>=1 and num<=100:
+    
+print("The given number within the range ")
+
+else:
+    
+print("The given number is not within the range")

@@ -1,0 +1,8 @@
+A=str(input("Enter a string:"))
+
+i=0
+for x in A:
+
+    print("The character at",i,"Index is",x)
+
+    i=i+1

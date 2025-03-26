@@ -1,0 +1,17 @@
+name=input("Enter your chioce:")
+
+if name=="Strawberry":
+    
+print("It is children flavour")
+
+elif name=="Chocolate":
+    
+print("It is much tasty")
+
+elif name=="Kulfie":
+    
+print("Buy one get one free")
+
+else:
+    
+print("Other flavours are not recommended")
