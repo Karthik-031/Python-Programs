@@ -1,0 +1,17 @@
+ls=[10,20.5,"Python",True,30+40j]
+
+print(ls)
+
+print(type(ls))
+
+a,b,c,d,e=[10,20.5,"Python",True,30+40j]
+
+print(a)
+
+print(b)
+
+print(c)
+
+print(d)
+
+print(e)

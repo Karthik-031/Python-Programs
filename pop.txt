@@ -1,0 +1,7 @@
+ls=[10,20,79,50,89,79]
+
+print(ls)
+
+ls.pop()
+
+print(ls)

@@ -1,0 +1,15 @@
+a=10
+
+b=20.5
+
+c="Python"
+
+d=30+40j
+
+e=True
+
+ls=[a,b,c,d,e]
+
+print(ls)
+
+print(type(ls))

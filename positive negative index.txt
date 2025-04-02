@@ -1,0 +1,7 @@
+ls=[10,20,True,20.5,"Python",9,2,80+90j]
+
+x=len(ls)
+
+for i in range(x):
+
+    print(ls[i],"is available positive index at:",i,"and negative index is:",i-x)

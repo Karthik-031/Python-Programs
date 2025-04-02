@@ -1,0 +1,9 @@
+ls=["Python","is","very","difficult","language"]
+
+print(type(ls))
+
+print(ls)
+
+s="".join(ls)
+
+print(ls)

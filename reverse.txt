@@ -1,0 +1,7 @@
+ls=[1,10,2,89,56,9]
+
+print(ls)
+
+ls.reverse()
+
+print(ls)

@@ -1,0 +1,7 @@
+ls=[10,20,79,50,89,79]
+
+ls.append(70)
+
+ls.append(66)
+
+print(ls)

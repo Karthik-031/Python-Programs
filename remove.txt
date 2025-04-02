@@ -1,0 +1,7 @@
+ls=[1,4,2,7,3,9]
+
+print(ls)
+
+ls.remove(4)
+
+print(ls)

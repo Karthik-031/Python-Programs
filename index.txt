@@ -1,0 +1,4 @@
+ls=[10,20,True,20.5,"python",9,2,80+90j]
+
+
+print(ls.index(10))
