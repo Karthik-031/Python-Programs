@@ -1,0 +1,18 @@
+def add_dif(a,b):
+
+    add=a+b
+    dif=a-b
+
+    return add,dif
+
+x,y=add_dif(100,50)
+
+print("the sum is:",x)
+
+print("the sub is:",y)
+
+
+OUTPUT:=
+the sum is: 150
+
+the sub is: 50
