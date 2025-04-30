@@ -1,0 +1,38 @@
+def findsmall():
+
+    a=int(input("enter first value:"))
+    b=int(input("enter second value:"))
+
+    c=int(input("enter third value:"))
+
+    d=int(input("enter fourth value:"))
+
+    if a<b and a<c and a<d:
+
+        print("The smallest value is:",a)
+
+    elif b<c and b<d:
+
+        print("The smallest value is:",b)
+
+    elif c<d:
+
+         print("The smallest value is:",c)
+
+    else:
+
+     print("The smallest value is:",d)
+
+findsmall()
+
+
+enter first value:20
+
+enter second value:90
+
+enter third value:50
+
+enter fourth value:80
+
+The smallest value is: 20
+

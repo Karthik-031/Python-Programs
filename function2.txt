@@ -1,0 +1,33 @@
+def cal(a,b):
+
+    print("sum is:",a+b)
+
+    print("diference is:",a-b)
+
+    print("product is:",a*b)
+
+cal(20,10)
+
+cal(200,100)
+
+cal(2000,1000)
+
+OUTPUT:-
+===================
+sum is: 30
+
+diference is: 10
+
+product is: 200
+
+sum is: 300
+
+diference is: 100
+
+product is: 20000
+
+sum is: 3000
+
+diference is: 1000
+
+product is: 2000000
