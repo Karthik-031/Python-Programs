@@ -1,0 +1,12 @@
+def wish(name):
+
+    print("Hello",name,"Good noon")
+
+wish('python')
+
+wish('java')
+
+OUTPUT:-
+Hello python Good noon
+
+Hello java Good noon
