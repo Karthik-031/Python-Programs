@@ -1,0 +1,14 @@
+height=eval(input("Enter the height of triangle:"))
+
+base=eval(input("Enter the base of triangle:"))
+
+area=(0.5)*base*height
+
+print("The area of triangle:",area)
+
+OUTPUT:-
+Enter the height of triangle:10
+
+Enter the base of triangle:20
+
+The area of triangle: 100.0
