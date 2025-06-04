@@ -1,0 +1,13 @@
+import platform
+
+system_name=platform.system()
+
+node_name=platfoem.node()
+
+procesor_nmae=platform.processor()
+
+print("System Name:",system_name)
+
+print("Node Name:",node_name)
+
+print("Processor Name:",processsor_name)

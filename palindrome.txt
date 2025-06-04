@@ -1,20 +1,25 @@
-n=int(input("Enter a number:"))
+def pal(s):
 
-dup=n
+    s=s.lower()
 
-sum=0
+    if len(s)<=1:
 
-while n>0:
+        return True
 
-    rem=n%10
-    sum+sum+(rem**3)
-    n=n//10
+    elif s[0]!=s[-1]:
 
-    if dup==sum:
-
-        print("The given number is palindrome")
+        return false
 
     else:
 
-            print("The given number is not palindrome")
-        
+        return pal(s[1:-1])
+
+my input =input("enter a string:")
+
+    if pal( input):
+
+        print(f"'{my input}'is not a palindrome.")
+
+    else:
+
+        print(f"'{my input}' is not a palindrome.")
